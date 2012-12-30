@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8568b8d8-839f-44ec-903a-67200665b802" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation.scss" afterPath="$PROJECT_DIR$/scss/foundation.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/common/_forms.scss" afterPath="$PROJECT_DIR$/scss/foundation/common/_forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/common/_globals.scss" afterPath="$PROJECT_DIR$/scss/foundation/common/_globals.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/common/_ratios.scss" afterPath="$PROJECT_DIR$/scss/foundation/common/_ratios.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/common/_typography.scss" afterPath="$PROJECT_DIR$/scss/foundation/common/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/_grid.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/_grid.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/modules/_buttons.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/modules/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/modules/_navbar.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/modules/_navbar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/modules/_offcanvas.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/modules/_offcanvas.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/modules/_orbit.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/modules/_orbit.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/modules/_reveal.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/modules/_reveal.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/modules/_tabs.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/modules/_tabs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/components/modules/_ui.scss" afterPath="$PROJECT_DIR$/scss/foundation/components/modules/_ui.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/functions/_convert-number-to-word.scss" afterPath="$PROJECT_DIR$/scss/foundation/functions/_convert-number-to-word.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/mixins/_clearfix.scss" afterPath="$PROJECT_DIR$/scss/foundation/mixins/_clearfix.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/mixins/_css-triangle.scss" afterPath="$PROJECT_DIR$/scss/foundation/mixins/_css-triangle.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/mixins/_font-size.scss" afterPath="$PROJECT_DIR$/scss/foundation/mixins/_font-size.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/mixins/_respond-to.scss" afterPath="$PROJECT_DIR$/scss/foundation/mixins/_respond-to.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/foundation/mixins/_semantic-grid.scss" afterPath="$PROJECT_DIR$/scss/foundation/mixins/_semantic-grid.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/project/index.html" afterPath="$PROJECT_DIR$/templates/project/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/project/scss/app.scss" afterPath="$PROJECT_DIR$/templates/project/scss/app.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/buttons.html" afterPath="$PROJECT_DIR$/test/buttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/elements.html" afterPath="$PROJECT_DIR$/test/elements.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/forms.html" afterPath="$PROJECT_DIR$/test/forms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/grid.html" afterPath="$PROJECT_DIR$/test/grid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/index.html" afterPath="$PROJECT_DIR$/test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/navigation.html" afterPath="$PROJECT_DIR$/test/navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/orbit.html" afterPath="$PROJECT_DIR$/test/orbit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/reveal.html" afterPath="$PROJECT_DIR$/test/reveal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/tabs.html" afterPath="$PROJECT_DIR$/test/tabs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/template.html" afterPath="$PROJECT_DIR$/test/template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/type.html" afterPath="$PROJECT_DIR$/test/type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/app.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/index.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.accordion.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.accordion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.alerts.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.alerts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.buttons.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.buttons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.forms.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.forms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.mediaQueryToggle.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.mediaQueryToggle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.navigation.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.navigation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.orbit.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.orbit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.reveal.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.reveal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.tabs.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.tooltips.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.foundation.tooltips.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.offcanvas.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.offcanvas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.placeholder.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/jquery.placeholder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/modernizr.foundation.js" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/foundation/modernizr.foundation.js" />
+    </list>
+    <ignored path="foundation.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foundation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foundation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foundation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="9cfa253b-0d15-48d6-8614-4f4e672f03da">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1356843168291</created>
+      <updated>1356843168291</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
