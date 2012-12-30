@@ -1,9 +1,29 @@
 // Settings file containing Foundation defaults
+$multiplier: 1.3;
+$multiplierLarge: $multiplier * 2.7;
+$multiplierSmall: $multiplier / $multiplierLarge;
+
+/* =============================================================================
+Layout
+========================================================================== */
+
+$padding: 1em;
+$paddingLarge: $padding * $multiplier;
+$paddingSmall: $padding / $multiplier;
+$margin: $padding;
+$marginLarge: $margin * $multiplier;
+
+$borderRadius: ($margin / $multiplierLarge);
+$borderRadiusSmall: $borderRadius * 0.75;
+$borderRadiusLarge: $borderRadius * 1.25;
+
+/* Transitions*/
+$transitionTime: 0.5s;
 
 // Grid Settings
 
-$rowWidth: 1000px !default;
-$columnGutter: 30px !default;
+$rowWidth: 100% !default;
+$columnGutter: 3% !default;
 $totalColumns: 12 !default;
 $mobileTotalColumns: 4 !default;
 
@@ -28,27 +48,30 @@ $bodyFontFamily: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif !de
 $bodyFontWeight: normal !default;
 $bodyFontColor: $txtColor !default;
 
+$baseFontSize: 16px !default;
+$base-size: $baseFontSize;
+$fontSizeSmall: $baseFontSize / $multiplier;
 // Button Settings
 
-$buttonRadius: 3px !default;
-$btnBase: 10px !default;
+$buttonRadius: $borderRadius !default;
+$btnBase: $paddingSmall !default;
 
-$tinyBtnBase: $btnBase - 5 !default;
-$smallBtnBase: $btnBase - 3 !default;
-$largeBtnBase: $btnBase + 5 !default;
+$tinyBtnBase: $btnBase / $multiplierLarge !default;
+$smallBtnBase: $btnBase / $multiplier !default;
+$largeBtnBase: $btnBase * $multiplierLarge !default;
 
 // Form Settings
 
-$formSpacing: 12px !default;
+$formSpacing: $margin !default;
 
 // Tab Settings
 
-$tabHeight: 40px !default;
+$tabHeight: $marginLarge !default;
 
 // Nav Bar Settings
 
-$navBarHeight: 40px !default;
-$navFlyoutBaseWidth: 250px !default;
+$navBarHeight: $marginLarge !default;
+$navFlyoutBaseWidth: $marginLarge * $multiplierLarge !default;
 
 // Off Canvas Width Settings
 
@@ -58,9 +81,7 @@ $complementaryWidth: 20% !default;
 // Modular Scale Settings
 
 // $ratio: $golden; // THIS IS DEFAULT IN MODULAR-SCALE
-$baseFontSize: 14px !default;
-$importantModNum: 44px !default;
-$base-size: $baseFontSize $importantModNum;
+
 // Produced the following list of values: 14, 17, 23, 27, 37, 44, 59, 71, 95, 115;
 // http://www.modularscale.com by Tim Brown
 // https://github.com/scottkellum/modular-scale by scottkellum
@@ -73,18 +94,19 @@ $hasTipBorderBottomHover: dotted 1px darken($mainColor, 20%) !default;
 $hasTipFontColorHover: $mainColor !default;
 $tooltipBackgroundColor: #000 !default;
 $tooltipBackgroundOpacity: 0.85 !default;
-$tooltipFontSize: 12 !default;
+$tooltipFontSize: $fontSizeSmall !default;
 $tooltipFontWeight: bold !default;
 $tooltipFontColor: #fff !default;
-$tapToCloseFontSize: 10 !default;
+$tapToCloseFontSize: $fontSizeSmall !default;
 $tapToCloseFontWeight: normal !default;
 $tapToCloseFontColor: #888 !default;
 $tooltipFontSizeScreenSmall: 14 !default;
 $tooltipBackgroundOpacityScreenSmall: 0.85 !default;
 
 // Media Queries
-
-$screenSmall: 768px !default;
+//Support high-pixel density displays: http://menacingcloud.com/?c=highPixelDensityDisplays
+//http://auctionrepair.com/pixels.html for device listing
+$screenSmall: 767px !default;
 $screenMedium: 1279px !default;
 $screenXlarge: 1441px !default;
 
